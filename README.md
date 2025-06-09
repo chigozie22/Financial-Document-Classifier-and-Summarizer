@@ -36,4 +36,4 @@ Used to train FinBERT on multi-class classification of financial documents. Clas
 
 CSV format:
 
-There is a dockerfile for containerization
+The two tasks are tested out on streamlit frontend. There is a dockerfile for containerization
