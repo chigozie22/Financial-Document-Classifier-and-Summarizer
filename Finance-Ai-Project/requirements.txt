@@ -1,0 +1,8 @@
+streamlit
+transformers
+torch
+pandas
+bs4
+pymupdf
+paddleocr
+docling
