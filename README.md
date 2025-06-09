@@ -35,3 +35,5 @@ Used to train FinBERT on multi-class classification of financial documents. Clas
         
 
 CSV format:
+
+There is a dockerfile for containerization
